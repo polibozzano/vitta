@@ -6,11 +6,11 @@ Sistema de agendamentos que simula um fluxo real de usuários e administradores 
 
 ### Painel do Usuário
 ![Dashboard do Usuario](./public/img/screenshot1.png)
-Acesse em: (https://vitta.vercel.app)
+Acesse em: (https://vitta-eight.vercel.app)
 
 ### Painel do Admin
 ![Painel do Admin](./public/img/screenshot2.png)
-Acesse em: (https://vitta.vercel.app/admin)
+Acesse em: (https://vitta-eight.vercel.app/admin)
 
 ### 🔐 Acesso ao Painel do Admin
 Use as credenciais abaixo para acessar:
